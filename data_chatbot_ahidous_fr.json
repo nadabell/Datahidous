@@ -1,0 +1,320 @@
+{
+	"intents": [
+		{
+			"tag": "salutation",
+			"patterns": [
+				"Bonjour",
+				"Salut",
+				"Y a-t-il quelqu’un ici ?",
+				"Bonsoir",
+				"Coucou"
+			],
+			"responses": [
+				"Bienvenue sur ahidous.com ! 🎶",
+				"Salut ! Content(e) de te voir ici.",
+				"Bonjour ! Je suis là pour t’aider à explorer la musique Amazighe.",
+				"Hey ! Tu veux découvrir des vidéos ou des artistes ?"
+			]
+		},
+		{
+			"tag": "infos_artistes",
+			"patterns": [
+				"Qui est Badr Ouabi ?",
+				"Parle-moi de Houssa 46",
+				"Quels sont les artistes présents sur le site ?",
+				"As-tu des infos sur les chanteurs Amazigh ?",
+				"Quels artistes Amazigh puis-je écouter ?"
+			],
+			"responses": [
+				"Badr Ouabi est un artiste Amazigh connu pour son style original et ses paroles profondes.",
+				"Houssa 46 est un chanteur populaire qui mélange musique traditionnelle et moderne.",
+				"Tu peux découvrir tous les artistes depuis la section 'Artistes' du site.",
+				"Nous avons des profils dédiés pour plusieurs chanteurs comme Badr Ouabi, Houssa 46, etc."
+			]
+		},
+		{
+			"tag": "playlists",
+			"patterns": [
+				"Où puis-je trouver les playlists ?",
+				"Avez-vous des compilations ?",
+				"Je veux écouter plusieurs chansons ensemble.",
+				"Montre-moi des playlists Amazigh",
+				"Des playlists disponibles ?"
+			],
+			"responses": [
+				"Oui, nous avons des playlists organisées par artiste ou ambiance.",
+				"Va dans la section 'Playlists' pour écouter des compilations prêtes à l’écoute 🎧.",
+				"Tu peux découvrir des séries de chansons dans 'Playlists' ou via YouTube directement.",
+				"Certaines pages artistes contiennent aussi leurs meilleures vidéos groupées."
+			]
+		},
+		{
+			"tag": "nouvelles_musiques",
+			"patterns": [
+				"Quelles sont les nouvelles vidéos ?",
+				"Y a-t-il de nouvelles chansons ?",
+				"Montre-moi les dernières musiques",
+				"Des nouveautés cette semaine ?"
+			],
+			"responses": [
+				"Oui ! Nous avons récemment ajouté une nouvelle vidéo de Houssa 46.",
+				"Va dans la section 'Dernières vidéos' pour voir les nouveautés.",
+				"Les vidéos les plus récentes sont affichées en haut de la page d’accueil.",
+				"Nous publions régulièrement des nouveautés. Reviens souvent 😉"
+			]
+		},
+		{
+			"tag": "recherche_musique",
+			"patterns": [
+				"Je cherche une chanson",
+				"Peux-tu m’aider à trouver un titre ?",
+				"Je veux retrouver une vidéo",
+				"Comment chercher une chanson ?",
+				"Je ne me souviens que de quelques mots..."
+			],
+			"responses": [
+				"Essaie d’utiliser le moteur de recherche en haut du site.",
+				"Tu peux m’indiquer un mot, un nom d’artiste, ou un refrain, et je t’aiderai !",
+				"As-tu une idée du nom de l’artiste ? Je peux chercher pour toi.",
+				"Va dans la section 'Artistes' si tu connais le chanteur."
+			]
+		},
+		{
+			"tag": "remerciements",
+			"patterns": [
+				"Merci",
+				"Merci beaucoup",
+				"C’est très gentil",
+				"Je te remercie",
+				"Merci pour l’aide"
+			],
+			"responses": [
+				"Avec plaisir ! 😊",
+				"Je suis toujours là pour t’aider !",
+				"Content(e) d’avoir pu t’aider 🎵",
+				"N’hésite pas si tu as d’autres questions."
+			]
+		},
+		{
+			"tag": "aurevoir",
+			"patterns": [
+				"Au revoir",
+				"À bientôt",
+				"Merci, à plus",
+				"Je dois y aller",
+				"Bonne journée"
+			],
+			"responses": [
+				"À très bientôt sur ahidous.com !",
+				"Merci pour ta visite, prends soin de toi 👋",
+				"À plus tard pour plus de musique Amazigh !",
+				"Passe une bonne journée, et reviens écouter d’autres chansons 😊"
+			]
+		},
+		{
+			"tag": "salutation",
+			"patterns": [
+				"Bonjour",
+				"Salut",
+				"Y a-t-il quelqu’un ici ?",
+				"Bonsoir",
+				"Coucou"
+			],
+			"responses": [
+				"Bienvenue sur ahidous.com ! 🎶",
+				"Salut ! Content(e) de te voir ici.",
+				"Bonjour ! Je suis là pour t’aider à explorer la musique Amazighe.",
+				"Hey ! Tu veux découvrir des vidéos ou des artistes ?"
+			]
+		},
+		{
+			"tag": "infos_artistes",
+			"patterns": [
+				"Qui est Badr Ouabi ?",
+				"Parle-moi de Houssa 46",
+				"Quels sont les artistes présents sur le site ?",
+				"As-tu des infos sur les chanteurs Amazigh ?",
+				"Quels artistes Amazigh puis-je écouter ?"
+			],
+			"responses": [
+				"Badr Ouabi est un artiste Amazigh connu pour son style original et ses paroles profondes.",
+				"Houssa 46 est un chanteur populaire qui mélange musique traditionnelle et moderne.",
+				"Tu peux découvrir tous les artistes depuis la section 'Artistes' du site.",
+				"Nous avons des profils dédiés pour plusieurs chanteurs comme Badr Ouabi, Houssa 46, etc."
+			]
+		},
+		{
+			"tag": "playlists",
+			"patterns": [
+				"Où puis-je trouver les playlists ?",
+				"Avez-vous des compilations ?",
+				"Je veux écouter plusieurs chansons ensemble.",
+				"Montre-moi des playlists Amazigh",
+				"Des playlists disponibles ?"
+			],
+			"responses": [
+				"Oui, nous avons des playlists organisées par artiste ou ambiance.",
+				"Va dans la section 'Playlists' pour écouter des compilations prêtes à l’écoute 🎧.",
+				"Tu peux découvrir des séries de chansons dans 'Playlists' ou via YouTube directement.",
+				"Certaines pages artistes contiennent aussi leurs meilleures vidéos groupées."
+			]
+		},
+		{
+			"tag": "nouvelles_musiques",
+			"patterns": [
+				"Quelles sont les nouvelles vidéos ?",
+				"Y a-t-il de nouvelles chansons ?",
+				"Montre-moi les dernières musiques",
+				"Des nouveautés cette semaine ?"
+			],
+			"responses": [
+				"Oui ! Nous avons récemment ajouté une nouvelle vidéo de Houssa 46.",
+				"Va dans la section 'Dernières vidéos' pour voir les nouveautés.",
+				"Les vidéos les plus récentes sont affichées en haut de la page d’accueil.",
+				"Nous publions régulièrement des nouveautés. Reviens souvent 😉"
+			]
+		},
+		{
+			"tag": "recherche_musique",
+			"patterns": [
+				"Je cherche une chanson",
+				"Peux-tu m’aider à trouver un titre ?",
+				"Je veux retrouver une vidéo",
+				"Comment chercher une chanson ?",
+				"Je ne me souviens que de quelques mots..."
+			],
+			"responses": [
+				"Essaie d’utiliser le moteur de recherche en haut du site.",
+				"Tu peux m’indiquer un mot, un nom d’artiste, ou un refrain, et je t’aiderai !",
+				"As-tu une idée du nom de l’artiste ? Je peux chercher pour toi.",
+				"Va dans la section 'Artistes' si tu connais le chanteur."
+			]
+		},
+		{
+			"tag": "remerciements",
+			"patterns": [
+				"Merci",
+				"Merci beaucoup",
+				"C’est très gentil",
+				"Je te remercie",
+				"Merci pour l’aide"
+			],
+			"responses": [
+				"Avec plaisir ! 😊",
+				"Je suis toujours là pour t’aider !",
+				"Content(e) d’avoir pu t’aider 🎵",
+				"N’hésite pas si tu as d’autres questions."
+			]
+		},
+		{
+			"tag": "aurevoir",
+			"patterns": [
+				"Au revoir",
+				"À bientôt",
+				"Merci, à plus",
+				"Je dois y aller",
+				"Bonne journée"
+			],
+			"responses": [
+				"À très bientôt sur ahidous.com !",
+				"Merci pour ta visite, prends soin de toi 👋",
+				"À plus tard pour plus de musique Amazigh !",
+				"Passe une bonne journée, et reviens écouter d’autres chansons 😊"
+			]
+		},
+		{
+			"tag": "pourquoi_ce_site",
+			"patterns": [
+				"C'est quoi l'intérêt de ce site ?",
+				"Pourquoi ce site existe-t-il ?",
+				"À quoi sert ahidous.com ?",
+				"Quel est l'objectif de ce site ?",
+				"Pourquoi créer un site sur l'Ahidous ?",
+				"Quel est le but de ahidous.com ?"
+			],
+			"responses": [
+				"Ce site vise à promouvoir et transmettre l'Ahidous, un trésor culturel amazigh.",
+				"L'objectif est de faire découvrir la danse, la musique et la poésie berbères.",
+				"Nous voulons préserver et partager cet art ancestral de l'Atlas avec le monde.",
+				"ahidous.com sert à rassembler vidéos, artistes, histoires et playlists en un seul endroit.",
+				"Ce site est une vitrine dédiée à l'Ahidous : traditions, artistes, événements et plus encore."
+			]
+		},
+		{
+			"tag": "qu_est_ce_que_ahidous",
+			"patterns": [
+				"C'est quoi l'Ahidous ?",
+				"Définition de l'Ahidous",
+				"Qu'est-ce que l'ahidous ?",
+				"Explique-moi l'ahidous",
+				"C'est quoi exactement ahidous ?"
+			],
+			"responses": [
+				"L’Ahidous est une danse collective amazighe, accompagnée de chants et percussions, originaire du Moyen et Haut Atlas :contentReference[oaicite:1]{index=1}.",
+				"C’est une tradition musicale et chorégraphique où hommes et femmes forment des cercles ou des lignes et chantent en berbère :contentReference[oaicite:2]{index=2}.",
+				"C’est un mélange de danse, chant improvisé (“izlan”) et rythme porté par tambourins et mains :contentReference[oaicite:3]{index=3}."
+			]
+		},
+		{
+			"tag": "histoire_ahidous",
+			"patterns": [
+				"Quelle est l'histoire de l'ahidous ?",
+				"D'où vient l'ahidous ?",
+				"Origines de l'ahidous",
+				"Comment l'ahidous a-t-il commencé ?",
+				"Histoire de cette danse amazighe"
+			],
+			"responses": [
+				"L’ahidous remonte à des siècles dans les zones du Moyen et Haut Atlas, reflétant la vie communautaire berbère :contentReference[oaicite:4]{index=4}.",
+				"Son origine exacte est difficile à tracer, mais il symbolise l'unité tribale par la danse en cercle :contentReference[oaicite:5]{index=5}.",
+				"Célébrée surtout lors de mariages et fêtes agricoles, l’ahidous est enraciné dans le patrimoine Amazigh :contentReference[oaicite:6]{index=6}."
+			]
+		},
+		{
+			"tag": "instruments_et_style",
+			"patterns": [
+				"Quels instruments sont utilisés ?",
+				"Comment se compose la musique ?",
+				"Instruments de l'ahidous",
+				"Style musical de l'ahidous",
+				"Rythme et chant dans l'ahidous ?"
+			],
+			"responses": [
+				"On utilise le bendir, la taarija, la flûte, plus les battements de mains et chants improvisés :contentReference[oaicite:7]{index=7}.",
+				"La musique repose essentiellement sur le tambourin, les percussions et le chant en berbère :contentReference[oaicite:8]{index=8}.",
+				"C’est un ensemble chanté 'izlan', percussions (bendir, taas, claps) et danse synchronisée :contentReference[oaicite:9]{index=9}."
+			]
+		},
+		{
+			"tag": "region_pratique",
+			"patterns": [
+				"Où se pratique l'ahidous ?",
+				"Dans quelles régions ?",
+				"Ahidous au Maroc, où ?",
+				"Zones d'origine de l'ahidous",
+				"Régions du Moyen Atlas"
+			],
+			"responses": [
+				"Principalement dans les provinces du Moyen et Haut Atlas : Khenifra, Ifrane, Azrou, etc. :contentReference[oaicite:10]{index=10}.",
+				"On le retrouve aussi à Imilchil, Midelt, Beni Mellal, El Hajeb, et dans le Rif :contentReference[oaicite:11]{index=11}.",
+				"C’est une tradition omniprésente dans les villages de l’Atlas central et les fêtes rurales :contentReference[oaicite:12]{index=12}."
+			]
+		},
+		{
+			"tag": "pourqui_utiliser_site",
+			"patterns": [
+				"Pourquoi visiter ce site ?",
+				"Que puis-je trouver ici ?",
+				"Que contient le site ?",
+				"À quoi ce site sert-il ?",
+				"Qu'offre ahidous.com ?"
+			],
+			"responses": [
+				"Tu y trouveras des vidéos, infos sur les artistes, l’histoire, les playlists et événements.",
+				"C’est un espace complet pour découvrir, écouter et comprendre l’Ahidous.",
+				"On y présente artistes, danses, traditions, et on offre des playlists et vidéos à explorer.",
+				"Le site centralise tout sur l’Ahidous : culture, musique, danse, artistes, etc."
+			]
+		}
+	]
+}
